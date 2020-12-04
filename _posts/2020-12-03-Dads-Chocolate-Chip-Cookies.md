@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Dad's Chocolate Chip Cookies
 date: 2020-12-03
 categories: dessert
