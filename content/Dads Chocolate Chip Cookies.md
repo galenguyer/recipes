@@ -1,20 +1,19 @@
-Dad's Chocolate Chip Cookies
-
-# Dad's Chocolate Chip Cookies
++++
+title = "Dad's Chocolate Chip Cookies"
++++
 
 ### Ingredients:
-- [ ] 1 cup brown butter(see Internet instructions how to make)
-- [ ]       you can use softened butter as an alternate
-- [ ] 3/4c White Sugar
-- [ ] 3/4c Light Brown Sugar
-- [ ] 1c All-Purpose Flour
-- [ ] 1c Bread Flour
-- [ ] 2c Choc Chips and/or Chunks (1 1/2 bags)
-- [ ] 1tsp Baking Soda
-- [ ] 1/2 tsp Salt
-- [ ] 1+ tbs Vanilla  (mexican vanilla is good)
-- [ ] 1 egg
-- [ ] 1 egg yolk
+- 1 cup brown butter (you can use softened butter as an alternate)
+- 3/4c White Sugar
+- 3/4c Light Brown Sugar
+- 1c All-Purpose Flour
+- 1c Bread Flour
+- 2c Choc Chips and/or Chunks (1 1/2 bags)
+- 1tsp Baking Soda
+- 1/2 tsp Salt
+- 1+ tbs Vanilla  (mexican vanilla is good)
+- 1 egg
+- 1 egg yolk
 
 ### Steps:
 1. make brown butter, and cool to room temperature
