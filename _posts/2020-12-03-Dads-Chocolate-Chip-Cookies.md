@@ -1,9 +1,11 @@
-+++
-title = "Dad's Chocolate Chip Cookies"
-date = 2020-12-03
-[taxonomies]
-meal = ["dessert"]
-+++
+---
+layout: post
+title: Dad's Chocolate Chip Cookies
+date: 2020-12-03
+categories: dessert
+tags: cookies
+---
+# Dad's Chocolate Chip Cookies
 
 ### Ingredients:
 - 1 cup brown butter (you can use softened butter as an alternate)
