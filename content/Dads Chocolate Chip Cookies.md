@@ -2,7 +2,7 @@
 title = "Dad's Chocolate Chip Cookies"
 date = 2020-12-03
 [taxonomies]
-meal = ["dinner"]
+meal = ["dessert"]
 +++
 
 ### Ingredients:
