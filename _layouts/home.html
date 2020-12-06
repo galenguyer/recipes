@@ -14,6 +14,9 @@
                         {{ post.title | escape }}
                     </a>
                 </h3>
+                {%- for tag in post.tags -%}
+                    <span>{{ tag }}</span>
+                {%- endfor -%}
                 {%- if site.show_excerpts -%}
                 {{ post.excerpt }}
                 {%- endif -%}
